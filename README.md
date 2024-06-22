@@ -16,10 +16,9 @@ La compañía estadounidense Freedom Trains está realizando un nuevo modelo de 
 
 ### Algoritmo
 
-1 - Pedir al usuario que ingrese una medida en centímetros
-2 - Leer la medida en centímetros
-3 - Convertir la medida de centímetros a pulgadas usando la fórmula de conversión
-4 - Mostrar el resultado en pulgadas al usuario
+1. Pedir al usuario que ingrese una medida en centímetros
+2. Convertir la medida de centímetros a pulgadas usando la fórmula de conversión
+3. Mostrar el resultado en pulgadas al usuario
 
 ---
 
@@ -27,9 +26,11 @@ La compañía estadounidense Freedom Trains está realizando un nuevo modelo de 
 
 ```
 Inicio
+    1. Pedir al usuario que ingrese una medida en centímetros
     Mostrar "Ingrese la medida en centímetros:"
-    Leer medida_cm
+    2. Convertir la medida de centímetros a pulgadas usando la fórmula de conversión
     pulgadas = medida_cm / 2.54
+    3. Mostrar el resultado en pulgadas al usuario
     Mostrar "La medida en pulgadas es: " + pulgadas
 Fin
 ```

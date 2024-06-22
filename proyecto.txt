@@ -1,0 +1,33 @@
+############################################################################################
+
+Problemática:
+La compañía estadounidense Freedom Trains está realizando un nuevo modelo de trenes basados 
+en los planos del famoso Ingeniero francés Barnabé Brisson pero muchas piezas no han encajado 
+correctamente debido a que los planos están en cms y las maquinarias americanas en pulgadas
+
+############################################################################################
+
+Algoritmo:
+
+1. Pedir al usuario que ingrese una medida en centímetros
+2. Convertir la medida de centímetros a pulgadas usando la fórmula de conversión
+3. Mostrar el resultado en pulgadas al usuario
+
+############################################################################################
+
+Pseudocódigo:
+
+Inicio
+
+    # Paso 1: Pedir al usuario que ingrese una medida en centímetros
+    Mostrar "Ingrese la medida en centímetros:"
+
+    # Paso 2: Convertir la medida de centímetros a pulgadas usando la fórmula de conversión
+    pulgadas = medida_cm / 2.54
+
+    # Paso 3: Mostrar el resultado en pulgadas al usuario
+    Mostrar "La medida en pulgadas es: " + pulgadas
+    
+Fin
+
+############################################################################################

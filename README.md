@@ -10,6 +10,8 @@
 
 La compañía estadounidense Freedom Trains está realizando un nuevo modelo de trenes basados en los planos del famoso Ingeniero francés Barnabé Brisson pero muchas piezas no han encajado correctamente debido a que los planos están en cms y las maquinarias americanas en pulgadas
 
+---
+
  - Escribir el algoritmo que resolvería el problema
 
 ### Algoritmo
@@ -18,6 +20,8 @@ La compañía estadounidense Freedom Trains está realizando un nuevo modelo de 
 2 - Leer la medida en centímetros
 3 - Convertir la medida de centímetros a pulgadas usando la fórmula de conversión
 4 - Mostrar el resultado en pulgadas al usuario
+
+---
 
  - Escribir el pseudocódigo que resolvería el problema
 
@@ -40,6 +44,8 @@ pulgadas = medida_cm / 2.54: Representado por un rectángulo.
 Mostrar "La medida en pulgadas es: " + pulgadas : Representado por un paralelogramo.
 Fin: Representado por un óvalo.
 ```
+
+---
 
  - Finalmente realizar el código en Python:
 

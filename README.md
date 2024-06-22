@@ -40,7 +40,6 @@ Fin
 ```
 Inicio: Representado por un óvalo.
 Mostrar mensaje "Ingrese la medida en centímetros:": Representado por un paralelogramo.
-Leer medida_cm: Representado por un paralelogramo.
 pulgadas = medida_cm / 2.54: Representado por un rectángulo.
 Mostrar "La medida en pulgadas es: " + pulgadas : Representado por un paralelogramo.
 Fin: Representado por un óvalo.

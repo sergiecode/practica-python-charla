@@ -45,6 +45,8 @@ Mostrar "La medida en pulgadas es: " + pulgadas : Representado por un paralelogr
 Fin: Representado por un óvalo.
 ```
 
+![Diagrama de flujo](https://raw.githubusercontent.com/sergiecode/practica-python-charla/main/diagrama-de-flujo.png)
+
 ---
 
  - Finalmente realizar el código en Python:
